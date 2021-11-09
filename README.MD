@@ -1,14 +1,14 @@
 # NIfTI MRS import into Python
 A demonstration of how to load the NIfTI MRS format in python using the nibabel libraries.
 
-NIfTI MRS is a new standard for storing  magnetic resonance spectroscopy data. A description of the format can be found in [the proposed format specification](https://docs.google.com/document/d/1tC4ugzGUPLoqHRGrWvOcGCuCh_Dogx_uu0cxKub0EsM/edit).
+NIfTI MRS is a new standard for storing  magnetic resonance spectroscopy data. A description of the format can be found in [the online specification](https://github.com/wtclarke/mrs_nifti_standard/blob/master/specification.MD).
 
 This readme file contains example code that can also be run interactively in `interactive_example.ipynb`.
 
 ## Setup
 First, clone the NIfTI MRS standard repository
 
-    git clone https://github.com/wexeee/mrs_nifti_standard.git
+    git clone https://github.com/wtclarke/mrs_nifti_standard.git
 
 and locate the example data in the `example_data` folder.
 
